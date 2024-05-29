@@ -1,1 +1,1 @@
-# Module-3-ETH-AVAX
+## ETH + AVAX Intermediate Module 3
